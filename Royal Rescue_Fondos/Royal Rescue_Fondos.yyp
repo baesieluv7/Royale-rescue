@@ -1,7 +1,7 @@
 {
   "resourceType": "GMProject",
   "resourceVersion": "1.7",
-  "name": "Royal rescue",
+  "name": "Royal Rescue_Fondos",
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
   ],
@@ -34,21 +34,11 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
-    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
-    {"id":{"name":"objSuelo","path":"objects/objSuelo/objSuelo.yy",},},
-    {"id":{"name":"objPrincipe","path":"objects/objPrincipe/objPrincipe.yy",},},
-    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
-    {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
-    {"id":{"name":"dragon","path":"sprites/dragon/dragon.yy",},},
-    {"id":{"name":"sprSuelo","path":"sprites/sprSuelo/sprSuelo.yy",},},
-    {"id":{"name":"sprPrincipe","path":"sprites/sprPrincipe/sprPrincipe.yy",},},
-    {"id":{"name":"objFondo","path":"objects/objFondo/objFondo.yy",},},
-    {"id":{"name":"sprFondo","path":"sprites/sprFondo/sprFondo.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Fondo1","path":"sprites/Fondo1/Fondo1.yy",},},
+    {"id":{"name":"F1","path":"rooms/F1/F1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"F1","path":"rooms/F1/F1.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
