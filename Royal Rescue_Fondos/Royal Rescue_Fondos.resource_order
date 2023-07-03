@@ -16,15 +16,5 @@
     {"name":"Sonidos","order":3,"path":"folders/Sonidos.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
-  "ResourceOrderSettings": [
-    {"name":"Sprite5","order":5,"path":"sprites/Sprite5/Sprite5.yy",},
-    {"name":"objSuelo","order":2,"path":"objects/objSuelo/objSuelo.yy",},
-    {"name":"objPrincipe","order":1,"path":"objects/objPrincipe/objPrincipe.yy",},
-    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
-    {"name":"Object4","order":3,"path":"objects/Object4/Object4.yy",},
-    {"name":"dragon","order":4,"path":"sprites/dragon/dragon.yy",},
-    {"name":"sprSuelo","order":1,"path":"sprites/sprSuelo/sprSuelo.yy",},
-    {"name":"sprPrincipe","order":3,"path":"sprites/sprPrincipe/sprPrincipe.yy",},
-    {"name":"princesa","order":4,"path":"sprites/princesa/princesa.yy",},
-  ],
+  "ResourceOrderSettings": [],
 }
