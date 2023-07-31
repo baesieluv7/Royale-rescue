@@ -1,10 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objPrincipe",
+  "name": "Obj_princesa",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Obj_pared","path":"objects/Obj_pared/Obj_pared.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprPrincipe",
-    "path": "sprites/sprPrincipe/sprPrincipe.yy",
+    "name": "SprPrincesa",
+    "path": "sprites/SprPrincesa/SprPrincesa.yy",
   },
   "spriteMaskId": null,
   "visible": true,

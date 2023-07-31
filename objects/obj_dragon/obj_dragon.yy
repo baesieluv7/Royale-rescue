@@ -1,9 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objPrincipe",
+  "name": "obj_dragon",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
@@ -29,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprPrincipe",
-    "path": "sprites/sprPrincipe/sprPrincipe.yy",
+    "name": "dragon",
+    "path": "sprites/dragon/dragon.yy",
   },
   "spriteMaskId": null,
   "visible": true,
