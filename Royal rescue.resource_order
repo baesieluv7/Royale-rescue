@@ -17,13 +17,19 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings": [
+<<<<<<< HEAD
     {"name":"obj_dragon","order":7,"path":"objects/obj_dragon/obj_dragon.yy",},
     {"name":"pared","order":13,"path":"sprites/pared/pared.yy",},
+=======
+    {"name":"Objvida","order":8,"path":"objects/Objvida/Objvida.yy",},
+    {"name":"Sprite5","order":5,"path":"sprites/Sprite5/Sprite5.yy",},
+>>>>>>> a5d721ad4ab7e9dd3aafc23a7bda2b4693a167bb
     {"name":"objSuelo","order":2,"path":"objects/objSuelo/objSuelo.yy",},
     {"name":"fondo","order":5,"path":"objects/fondo/fondo.yy",},
     {"name":"Obj_princesa","order":8,"path":"objects/Obj_princesa/Obj_princesa.yy",},
     {"name":"Sprite9","order":7,"path":"sprites/Sprite9/Sprite9.yy",},
     {"name":"objPrincipe","order":1,"path":"objects/objPrincipe/objPrincipe.yy",},
+<<<<<<< HEAD
     {"name":"dragon","order":3,"path":"sprites/dragon/dragon.yy",},
     {"name":"obj_princesaizq","order":9,"path":"objects/obj_princesaizq/obj_princesaizq.yy",},
     {"name":"SprPrincesa_izq","order":12,"path":"sprites/SprPrincesa_izq/SprPrincesa_izq.yy",},
@@ -34,5 +40,23 @@
     {"name":"Objecto_boton","order":6,"path":"objects/Objecto_boton/Objecto_boton.yy",},
     {"name":"SprPrincesa","order":10,"path":"sprites/SprPrincesa/SprPrincesa.yy",},
     {"name":"Sprite10","order":11,"path":"sprites/Sprite10/Sprite10.yy",},
+=======
+    {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"Objpl","order":5,"path":"objects/Objpl/Objpl.yy",},
+    {"name":"SprCorazon","order":13,"path":"sprites/SprCorazon/SprCorazon.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Object4","order":3,"path":"objects/Object4/Object4.yy",},
+    {"name":"dragon","order":4,"path":"sprites/dragon/dragon.yy",},
+    {"name":"Quietop","order":9,"path":"sprites/Quietop/Quietop.yy",},
+    {"name":"sprSuelo","order":1,"path":"sprites/sprSuelo/sprSuelo.yy",},
+    {"name":"objBloque","order":7,"path":"objects/objBloque/objBloque.yy",},
+    {"name":"ObjectPrincesa","order":4,"path":"objects/ObjectPrincesa/ObjectPrincesa.yy",},
+    {"name":"Sprpl","order":11,"path":"sprites/Sprpl/Sprpl.yy",},
+    {"name":"sprPrincipe","order":3,"path":"sprites/sprPrincipe/sprPrincipe.yy",},
+    {"name":"Saltop","order":8,"path":"sprites/Saltop/Saltop.yy",},
+    {"name":"sprBloque","order":7,"path":"sprites/sprBloque/sprBloque.yy",},
+    {"name":"princesa","order":4,"path":"sprites/princesa/princesa.yy",},
+    {"name":"Sprvida","order":12,"path":"sprites/Sprvida/Sprvida.yy",},
+>>>>>>> a5d721ad4ab7e9dd3aafc23a7bda2b4693a167bb
   ],
 }
