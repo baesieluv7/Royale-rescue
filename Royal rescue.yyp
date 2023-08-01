@@ -36,6 +36,7 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"SprCaballero","path":"sprites/SprCaballero/SprCaballero.yy",},},
     {"id":{"name":"Objvida","path":"objects/Objvida/Objvida.yy",},},
     {"id":{"name":"objSuelo","path":"objects/objSuelo/objSuelo.yy",},},
     {"id":{"name":"objPrincipe","path":"objects/objPrincipe/objPrincipe.yy",},},
