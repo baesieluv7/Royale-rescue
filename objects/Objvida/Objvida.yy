@@ -30,7 +30,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "Sprvida",
+    "path": "sprites/Sprvida/Sprvida.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

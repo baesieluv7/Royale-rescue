@@ -3,10 +3,6 @@
   "resourceVersion": "1.0",
   "name": "Object4",
   "eventList": [
-<<<<<<< HEAD
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-=======
->>>>>>> a5d721ad4ab7e9dd3aafc23a7bda2b4693a167bb
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,

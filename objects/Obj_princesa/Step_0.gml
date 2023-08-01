@@ -1,39 +1,18 @@
-/// @description Movimiento & Sprite etc..
-//Movimiento del personaje
-if keyboard_check_pressed((vk_right)) //derecha
-{
-	direction = 0;
-	speed = v;
-}
+#region //Horizontal
+var hor = keyboard_check(vk_right) - keyboard_check(vk_left);
 
-if keyboard_check_pressed((vk_left)) //izquierda
+if(hor !=0)
 {
-	direction = 180;
-	speed = v;
+	if(place_free(x + hor * 3,y)){
+		x += hor * 3;
+	}
+	image_xscale = hor*1;
+	sprite_index = SprPrincesa
+}else{
+	sprite_index = Quietop
 }
+#endregion
 
-//Verificar direccion y velocidad para cambiar el sprite 
-if speed > 0
-{
-	image_speed =1;
+if(keyboard_check_pressed(vk_space) && vspeed=0){
+	vspeed = -6;
 }
-else 
-{
-	image_speed = 0;
-	image_index = 0;
-}
-{
-switch(direction)
-{
-	case 0:
-	sprite_index =SprPrincesa;
-	break;
-	
-	
-	case 180:
-	sprite_index =SprPrincesa_izq;
-	break;
-}
-}
-
-//salto  
