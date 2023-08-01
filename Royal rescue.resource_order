@@ -16,6 +16,7 @@
     {"name":"Sonidos","order":2,"path":"folders/Sonidos.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"SprCaballero","order":14,"path":"sprites/SprCaballero/SprCaballero.yy",},
     {"name":"Objvida","order":8,"path":"objects/Objvida/Objvida.yy",},
     {"name":"Sprite5","order":5,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"objSuelo","order":2,"path":"objects/objSuelo/objSuelo.yy",},
