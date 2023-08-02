@@ -18,3 +18,7 @@ if(vspeed > 0){
 	vspeed = 0;
 	}
 }
+var plataform = collision_rectangle(x-3,y,x+3,y+9,Objpl,true,true);
+if(plataform) {
+	x +=plataform.hspeed;
+}

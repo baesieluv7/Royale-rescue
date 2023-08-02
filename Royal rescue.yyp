@@ -50,6 +50,7 @@
     {"id":{"name":"objBloque","path":"objects/objBloque/objBloque.yy",},},
     {"id":{"name":"ObjectPrincesa","path":"objects/ObjectPrincesa/ObjectPrincesa.yy",},},
     {"id":{"name":"Sprpl","path":"sprites/Sprpl/Sprpl.yy",},},
+    {"id":{"name":"Obstaculo","path":"sprites/Obstaculo/Obstaculo.yy",},},
     {"id":{"name":"sprPrincipe","path":"sprites/sprPrincipe/sprPrincipe.yy",},},
     {"id":{"name":"objFondo","path":"objects/objFondo/objFondo.yy",},},
     {"id":{"name":"Saltop","path":"sprites/Saltop/Saltop.yy",},},
