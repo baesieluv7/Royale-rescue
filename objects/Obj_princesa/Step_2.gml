@@ -7,6 +7,7 @@ if (!collision_rectangle(x-9,y,x+9,y+2,objBloque,false,false)){
 if(vspeed > 0){
 	var ground = collision_rectangle(x-9,y,x+9,y+vspeed,objBloque,false,false)
 	if(ground){
+		y = ground.y;
 		vspeed = 0;
 		gravity = 0;
 	}
@@ -17,4 +18,6 @@ if(vspeed > 0){
 		vspeed = 0;
 	}
 }
+
 #endregion
+
