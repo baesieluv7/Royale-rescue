@@ -16,3 +16,4 @@ if(hor !=0)
 if(keyboard_check_pressed(vk_space) && vspeed=0){
 	vspeed = -6;
 }
+

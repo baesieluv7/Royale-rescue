@@ -21,6 +21,7 @@
     {"name":"objSuelo","order":2,"path":"objects/objSuelo/objSuelo.yy",},
     {"name":"Sprite19","order":18,"path":"sprites/Sprite19/Sprite19.yy",},
     {"name":"objPrincipe","order":1,"path":"objects/objPrincipe/objPrincipe.yy",},
+    {"name":"fin","order":20,"path":"sprites/fin/fin.yy",},
     {"name":"SprCorazon","order":13,"path":"sprites/SprCorazon/SprCorazon.yy",},
     {"name":"Object4","order":3,"path":"objects/Object4/Object4.yy",},
     {"name":"Object11","order":9,"path":"objects/Object11/Object11.yy",},
@@ -42,6 +43,7 @@
     {"name":"fondo","order":5,"path":"objects/fondo/fondo.yy",},
     {"name":"Obj_princesa","order":8,"path":"objects/Obj_princesa/Obj_princesa.yy",},
     {"name":"Object13","order":11,"path":"objects/Object13/Object13.yy",},
+    {"name":"gameover","order":19,"path":"sprites/gameover/gameover.yy",},
     {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
   ],
 }
