@@ -35,7 +35,6 @@
   },
   "resources": [
     {"id":{"name":"SprCaballero","path":"sprites/SprCaballero/SprCaballero.yy",},},
-    {"id":{"name":"Objvida","path":"objects/Objvida/Objvida.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"objSuelo","path":"objects/objSuelo/objSuelo.yy",},},
     {"id":{"name":"objPrincipe","path":"objects/objPrincipe/objPrincipe.yy",},},
@@ -59,7 +58,6 @@
     {"id":{"name":"sprBloque","path":"sprites/sprBloque/sprBloque.yy",},},
     {"id":{"name":"sprFondo","path":"sprites/sprFondo/sprFondo.yy",},},
     {"id":{"name":"princesa","path":"sprites/princesa/princesa.yy",},},
-    {"id":{"name":"Sprvida","path":"sprites/Sprvida/Sprvida.yy",},},
     {"id":{"name":"Objpquieto","path":"objects/Objpquieto/Objpquieto.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
