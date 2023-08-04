@@ -1,3 +1,4 @@
+
 if (!collision_rectangle(x-8, y, x+8, y+1, objBloque, false, false)) {
 	
 	gravity = 0.3;
@@ -21,4 +22,5 @@ if(vspeed > 0){
 var plataform = collision_rectangle(x-3,y,x+3,y+9,Objpl,true,true);
 if(plataform) {
 	x +=plataform.hspeed;
+	y +=plataform.vspeed;
 }

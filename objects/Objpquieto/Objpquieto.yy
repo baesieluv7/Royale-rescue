@@ -1,11 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Objpl",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,},
-  ],
+  "name": "Objpquieto",
+  "eventList": [],
   "managed": false,
   "overriddenProperties": [],
   "parent": {
@@ -32,8 +29,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "Sprpl",
-    "path": "sprites/Sprpl/Sprpl.yy",
+    "name": "Spritepquieto",
+    "path": "sprites/Spritepquieto/Spritepquieto.yy",
   },
   "spriteMaskId": null,
   "visible": true,
