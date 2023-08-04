@@ -7,7 +7,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Objetos",
-    "path": "folders/Notas/Objetos.yy",
+    "path": "folders/Objetos.yy",
   },
   "parentObjectId": null,
   "persistent": false,
