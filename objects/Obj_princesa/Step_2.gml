@@ -13,7 +13,7 @@ if(vspeed > 0){
 	}
 }else if(vspeed < 0)
 {
-	var ceiling = collision_rectangle(x-10,y-25,x+10,y-25+vspeed,objBloque,false,false)
+	var ceiling = collision_rectangle(x-10,y-64,x+10,y-64+vspeed,objBloque,false,false)
 	if(ceiling && ceiling.onesided == false){
 		vspeed = 0;
 	}
