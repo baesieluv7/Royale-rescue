@@ -7,7 +7,7 @@
     {"name":"Líneas temporales","order":7,"path":"folders/Líneas temporales.yy",},
     {"name":"Notas","order":11,"path":"folders/Notas.yy",},
     {"name":"Objetos","order":14,"path":"folders/Objetos.yy",},
-    {"name":"Particle Systems","order":13,"path":"folders/Particle Systems.yy",},
+    {"name":"Particle Systems","order":8,"path":"folders/Objetos/Particle Systems.yy",},
     {"name":"Rutas","order":3,"path":"folders/Rutas.yy",},
     {"name":"Salas","order":8,"path":"folders/Salas.yy",},
     {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
@@ -18,7 +18,6 @@
   "ResourceOrderSettings": [
     {"name":"objpared","order":8,"path":"objects/objpared/objpared.yy",},
     {"name":"SprCaballero","order":14,"path":"sprites/SprCaballero/SprCaballero.yy",},
-    {"name":"Objvida","order":7,"path":"objects/Objvida/Objvida.yy",},
     {"name":"Sprite5","order":5,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"objSuelo","order":2,"path":"objects/objSuelo/objSuelo.yy",},
     {"name":"objPrincipe","order":1,"path":"objects/objPrincipe/objPrincipe.yy",},
@@ -32,6 +31,8 @@
     {"name":"Quietop","order":9,"path":"sprites/Quietop/Quietop.yy",},
     {"name":"sprSuelo","order":1,"path":"sprites/sprSuelo/sprSuelo.yy",},
     {"name":"objBloque","order":6,"path":"objects/objBloque/objBloque.yy",},
+    {"name":"Objfondoplataformas","order":9,"path":"objects/Objfondoplataformas/Objfondoplataformas.yy",},
+    {"name":"Spritepquieto","order":16,"path":"sprites/Spritepquieto/Spritepquieto.yy",},
     {"name":"ObjectPrincesa","order":4,"path":"objects/ObjectPrincesa/ObjectPrincesa.yy",},
     {"name":"Sprpl","order":11,"path":"sprites/Sprpl/Sprpl.yy",},
     {"name":"Obstaculo","order":15,"path":"sprites/Obstaculo/Obstaculo.yy",},
@@ -40,5 +41,9 @@
     {"name":"sprBloque","order":7,"path":"sprites/sprBloque/sprBloque.yy",},
     {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
     {"name":"princesa","order":4,"path":"sprites/princesa/princesa.yy",},
+<<<<<<< HEAD
+=======
+    {"name":"Objpquieto","order":10,"path":"objects/Objpquieto/Objpquieto.yy",},
+>>>>>>> de37e66ba2c943ff21532ff83e6588c61bd6bff5
   ],
 }

@@ -1,1 +1,3 @@
-hspeed = -.5
+hspeed = -0.8;
+xfrom = 32;
+xto = 1248;

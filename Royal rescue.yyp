@@ -18,7 +18,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Líneas temporales","folderPath":"folders/Líneas temporales.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notas","folderPath":"folders/Notas.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objetos","folderPath":"folders/Objetos.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Objetos/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rutas","folderPath":"folders/Rutas.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Salas","folderPath":"folders/Salas.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
@@ -36,7 +36,6 @@
   "resources": [
     {"id":{"name":"objpared","path":"objects/objpared/objpared.yy",},},
     {"id":{"name":"SprCaballero","path":"sprites/SprCaballero/SprCaballero.yy",},},
-    {"id":{"name":"Objvida","path":"objects/Objvida/Objvida.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"objSuelo","path":"objects/objSuelo/objSuelo.yy",},},
     {"id":{"name":"objPrincipe","path":"objects/objPrincipe/objPrincipe.yy",},},
@@ -50,6 +49,8 @@
     {"id":{"name":"Quietop","path":"sprites/Quietop/Quietop.yy",},},
     {"id":{"name":"sprSuelo","path":"sprites/sprSuelo/sprSuelo.yy",},},
     {"id":{"name":"objBloque","path":"objects/objBloque/objBloque.yy",},},
+    {"id":{"name":"Objfondoplataformas","path":"objects/Objfondoplataformas/Objfondoplataformas.yy",},},
+    {"id":{"name":"Spritepquieto","path":"sprites/Spritepquieto/Spritepquieto.yy",},},
     {"id":{"name":"ObjectPrincesa","path":"objects/ObjectPrincesa/ObjectPrincesa.yy",},},
     {"id":{"name":"Sprpl","path":"sprites/Sprpl/Sprpl.yy",},},
     {"id":{"name":"Obstaculo","path":"sprites/Obstaculo/Obstaculo.yy",},},
@@ -60,6 +61,10 @@
     {"id":{"name":"sprFondo","path":"sprites/sprFondo/sprFondo.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"princesa","path":"sprites/princesa/princesa.yy",},},
+<<<<<<< HEAD
+=======
+    {"id":{"name":"Objpquieto","path":"objects/Objpquieto/Objpquieto.yy",},},
+>>>>>>> de37e66ba2c943ff21532ff83e6588c61bd6bff5
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
