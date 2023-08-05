@@ -16,6 +16,7 @@
     {"name":"Sonidos","order":2,"path":"folders/Sonidos.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"objpared","order":8,"path":"objects/objpared/objpared.yy",},
     {"name":"SprCaballero","order":14,"path":"sprites/SprCaballero/SprCaballero.yy",},
     {"name":"Objvida","order":7,"path":"objects/Objvida/Objvida.yy",},
     {"name":"Sprite5","order":5,"path":"sprites/Sprite5/Sprite5.yy",},
@@ -27,6 +28,7 @@
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Object4","order":3,"path":"objects/Object4/Object4.yy",},
     {"name":"dragon","order":4,"path":"sprites/dragon/dragon.yy",},
+    {"name":"Caballeroobj","order":9,"path":"objects/Caballeroobj/Caballeroobj.yy",},
     {"name":"Quietop","order":9,"path":"sprites/Quietop/Quietop.yy",},
     {"name":"sprSuelo","order":1,"path":"sprites/sprSuelo/sprSuelo.yy",},
     {"name":"objBloque","order":6,"path":"objects/objBloque/objBloque.yy",},
@@ -36,7 +38,7 @@
     {"name":"sprPrincipe","order":3,"path":"sprites/sprPrincipe/sprPrincipe.yy",},
     {"name":"Saltop","order":8,"path":"sprites/Saltop/Saltop.yy",},
     {"name":"sprBloque","order":7,"path":"sprites/sprBloque/sprBloque.yy",},
+    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
     {"name":"princesa","order":4,"path":"sprites/princesa/princesa.yy",},
-    {"name":"Sprvida","order":12,"path":"sprites/Sprvida/Sprvida.yy",},
   ],
 }

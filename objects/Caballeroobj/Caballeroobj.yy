@@ -1,12 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ObjectPrincesa",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"objpared","path":"objects/objpared/objpared.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-  ],
+  "name": "Caballeroobj",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -30,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "princesa",
-    "path": "sprites/princesa/princesa.yy",
+    "name": "SprCaballero",
+    "path": "sprites/SprCaballero/SprCaballero.yy",
   },
   "spriteMaskId": null,
   "visible": true,
