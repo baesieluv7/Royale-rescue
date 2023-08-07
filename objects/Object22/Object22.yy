@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objBloque",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "Object22",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,11 +24,11 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "sprBloque",
-    "path": "sprites/sprBloque/sprBloque.yy",
+    "name": "SprJaula",
+    "path": "sprites/SprJaula/SprJaula.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }
